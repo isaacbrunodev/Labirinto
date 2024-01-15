@@ -1,1 +1,1 @@
-# Labirinto
+# Labirinto com linhas e colunas
